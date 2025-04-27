@@ -8,5 +8,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'rocket-bunny-update';
+  title = 'Welcome to Rocket bunny';
 }
+
